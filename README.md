@@ -10,6 +10,12 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
+## Routes
+
+  * [POST] Create fight: [`localhost:4000/api/create`](http://localhost:4000/api/create)
+  * [GET] Show fight: [`localhost:4000/api/show/:id`](http://localhost:4000/api/show/1)
+  * [GET] Show all fights: [`localhost:4000/api/index`](http://localhost:4000/api/create)
+
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
