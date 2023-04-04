@@ -14,7 +14,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
   * [POST] Create fight: [`localhost:4000/api/create`](http://localhost:4000/api/create)
   * [GET] Show fight: [`localhost:4000/api/show/:id`](http://localhost:4000/api/show/1)
-  * [GET] Show all fights: [`localhost:4000/api/index`](http://localhost:4000/api/create)
+  * [GET] Show all fights: [`localhost:4000/api/index`](http://localhost:4000/api/index)
 
 ## Learn more
 
